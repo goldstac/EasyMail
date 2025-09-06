@@ -27,7 +27,7 @@ Easymail uses the official Gmail API:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/easymail.git
+git clone https://github.com/goldstac/easymail.git
 cd easymail
 pip install -r requirements.txt
 ```
